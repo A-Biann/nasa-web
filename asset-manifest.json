@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/nasa-web/static/css/main.a01b144c.css",
+    "main.js": "/nasa-web/static/js/main.146ba886.js",
+    "static/media/video-1.mp4": "/nasa-web/static/media/video-1.59e75226d30ad48f9ede.mp4",
+    "static/media/meme_cover.png": "/nasa-web/static/media/meme_cover.d1d85cbf421958e83e10.png",
+    "static/media/m7.png": "/nasa-web/static/media/m7.94b4bfcd5be4773b2918.png",
+    "static/media/scheat.gif": "/nasa-web/static/media/scheat.3e0dbf604d8b544b1aa0.gif",
+    "static/media/Betelgeuse.gif": "/nasa-web/static/media/Betelgeuse.a61974781cdc5d69134c.gif",
+    "static/media/Alnilam.gif": "/nasa-web/static/media/Alnilam.3f438302362bf1892739.gif",
+    "static/media/stage1.jpg": "/nasa-web/static/media/stage1.1604eaef42c5079662f0.jpg",
+    "static/media/markab.gif": "/nasa-web/static/media/markab.adaf866774399e8309e8.gif",
+    "static/media/Algenib.gif": "/nasa-web/static/media/Algenib.478cddd9b032ecac367b.gif",
+    "static/media/about_cover.jpg": "/nasa-web/static/media/about_cover.4079f92eb526c83a4c1b.jpg",
+    "static/media/Antares.gif": "/nasa-web/static/media/Antares.d3c649e9993c7a9d1667.gif",
+    "static/media/Arcturus.gif": "/nasa-web/static/media/Arcturus.166bf5e5a0a822b9c0b9.gif",
+    "static/media/intro_cover.png": "/nasa-web/static/media/intro_cover.15f988443fec1021948e.png",
+    "static/media/stage3.jpg": "/nasa-web/static/media/stage3.770ba4b82aa1c04d9e60.jpg",
+    "static/media/stage2.jpg": "/nasa-web/static/media/stage2.2494e4c7a54dc09c308d.jpg",
+    "static/media/covergif.jpg": "/nasa-web/static/media/covergif.2538f83c1c64293d7d86.jpg",
+    "static/media/m8.png": "/nasa-web/static/media/m8.2aa0e933e8dffc7d1cb0.png",
+    "static/media/m5.png": "/nasa-web/static/media/m5.4a0e41169c9abd8b2b5e.png",
+    "static/media/m9.jpg": "/nasa-web/static/media/m9.9ce1784a3eee0fc90e08.jpg",
+    "static/media/m4.jpg": "/nasa-web/static/media/m4.d97e0a985d1848b4355e.jpg",
+    "static/media/intro_cover1.jpg": "/nasa-web/static/media/intro_cover1.2c2b7d30f47ec5c2ae36.jpg",
+    "static/media/m1.jpg": "/nasa-web/static/media/m1.58918500c1defc0a14f7.jpg",
+    "static/media/gif_cover.jpg": "/nasa-web/static/media/gif_cover.21f941afbdb8a1bdea69.jpg",
+    "static/media/stage4.jpg": "/nasa-web/static/media/stage4.3a972917daa52249a5e2.jpg",
+    "static/media/m6.jpg": "/nasa-web/static/media/m6.69cc0d7fc6ed4e2460ab.jpg",
+    "static/media/m3.jpg": "/nasa-web/static/media/m3.36ddb50d59589fede674.jpg",
+    "static/media/m2.jpg": "/nasa-web/static/media/m2.ed7aaed31748762dcd53.jpg",
+    "static/media/meme_cover.jpg": "/nasa-web/static/media/meme_cover.a75053fcafc883f91587.jpg",
+    "index.html": "/nasa-web/index.html",
+    "main.a01b144c.css.map": "/nasa-web/static/css/main.a01b144c.css.map",
+    "main.146ba886.js.map": "/nasa-web/static/js/main.146ba886.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a01b144c.css",
+    "static/js/main.146ba886.js"
+  ]
+}
