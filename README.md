@@ -6,7 +6,6 @@
 
 ### Project Detail
 ▶ HOME PAGE
-When users opening home page, user can choose to learn basic by press "LEARN INTRO" button to learn about facts of stars before proceeding to memes page.
 ![image](https://user-images.githubusercontent.com/97749993/194766683-d459afdf-eefe-4711-bf83-c69a779c97cc.png)
 ▶ LEARN PAGE
 ![image](https://user-images.githubusercontent.com/97749993/194766700-300d9f11-ca53-4d2b-8ac4-21643c51cf90.png)
@@ -20,6 +19,6 @@ During the experience, we worked as a team in order to come up with the idea to 
 It’s really interesting finding out how effective it is to teach people about astronomy using memes, which greatly bridges the gap between professionals and general people since memes usually contain plenty of background knowledge, and thus people are motivated to learn them in order to get the punchline.
 
 ### Related Links
-[NASA space apps project page](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/save-your-ass/project)\n
-[Webpage](https://a-biann.github.io/nasa-web/)\n
-[Demo Slides Page](https://docs.google.com/presentation/d/1buD7a6w6S9JZqGoPIxLiDkaq71ZRdxShy2X8fIecwJY/edit#slide=id.g967d9b3c40_0_855)\n
+1. [NASA space apps project page](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/save-your-ass/project)
+2. [Webpage](https://a-biann.github.io/nasa-web/) 
+3. [Demo Slides Page](https://docs.google.com/presentation/d/1buD7a6w6S9JZqGoPIxLiDkaq71ZRdxShy2X8fIecwJY/edit#slide=id.g967d9b3c40_0_855)
