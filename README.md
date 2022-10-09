@@ -1,4 +1,4 @@
-# nasa-web
+# A Glance to A Long Life
 ## for 2022 NASA space apps challenge
 
 ### Project Summary
@@ -20,6 +20,6 @@ During the experience, we worked as a team in order to come up with the idea to 
 It’s really interesting finding out how effective it is to teach people about astronomy using memes, which greatly bridges the gap between professionals and general people since memes usually contain plenty of background knowledge, and thus people are motivated to learn them in order to get the punchline.
 
 ### Related Links
-[NASA space apps project page](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/save-your-ass/project)
-[Webpage](https://a-biann.github.io/nasa-web/)
-[Demo Slides Page](https://docs.google.com/presentation/d/1buD7a6w6S9JZqGoPIxLiDkaq71ZRdxShy2X8fIecwJY/edit#slide=id.g967d9b3c40_0_855)
+[NASA space apps project page](https://2022.spaceappschallenge.org/challenges/2022-challenges/twinkle-twinkle-little-star/teams/save-your-ass/project)\n
+[Webpage](https://a-biann.github.io/nasa-web/)\n
+[Demo Slides Page](https://docs.google.com/presentation/d/1buD7a6w6S9JZqGoPIxLiDkaq71ZRdxShy2X8fIecwJY/edit#slide=id.g967d9b3c40_0_855)\n
